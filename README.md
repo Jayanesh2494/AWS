@@ -1,4 +1,9 @@
-# Serverless Data Pipeline Architecture With Aws
+# Serverless Data Pipeline Architecture With AWS
+
+
+![Architecture Diagram](https://github.com/user-attachments/assets/90876876-8c8c-4c35-9372-a62940e081ef)
+
+
 
 This project is a data engineering solution that combines a web application for student data entry with an ETL pipeline for data processing and storage in AWS.
 
